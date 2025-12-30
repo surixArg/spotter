@@ -1,0 +1,3 @@
+Product: SPOTTER
+Compilation Date: 2024/12/30
+Commit Hash: d4104e5a13faacc43b6a6ae07880d2f8a429dc86
