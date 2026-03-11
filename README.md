@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://surix.net" target="_blank" rel="noopener noreferrer">
+    <img src="https://surix.net/images/logo-scrolled.png" />
+  </a>
+</p>
+
 # SPOTTER
 
 Firmware for SPOTTER products.
